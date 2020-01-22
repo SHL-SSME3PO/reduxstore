@@ -1,2 +1,0 @@
-# reduxstore
-Created with CodeSandbox
